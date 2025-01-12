@@ -1,0 +1,6 @@
+@SolanaMetrics_HostAddress = http://localhost:5020
+
+GET {{SolanaMetrics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
