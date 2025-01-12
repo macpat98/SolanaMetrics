@@ -1,0 +1,38 @@
+# .NET Core
+bin/
+obj/
+.vs/
+# User-specific files
+*.user
+*.vspscc
+.vscode/
+
+# ASP.NET Core
+wwwroot/
+
+# Secrets (e.g., sensitive config files)
+appsettings.json
+secrets.json
+
+# VS Code config files
+.vscode/
+
+# .NET build configurations
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# AWS credentials (if stored locally)
+.aws/
+
+# Logs and Temporary files
+*.log
+*.tmp
+
+# Test results
+TestResults/
+
+# Local configuration files
+.env
+*.local
